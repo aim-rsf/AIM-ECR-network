@@ -1,6 +1,8 @@
 # About
 This repository contains planning documents for the AIM RSF Early Career Researcher day.
 
+<img src="https://github.com/aim-rsf/ecr-day/assets/30151074/6f8e9514-f240-4e31-b77f-fee7a8c0c416" alt="ecr-day-poster" style="width:50%; height:50%"/>
+
 ## Provisional schedule
 This schedule is provisional and subject to change.
 
