@@ -28,5 +28,5 @@ This schedule is provisional and subject to change.
 ## Maintainers
 Current developers and maintainers are:
 - Dr Eirini Zormpa (eirini-zormpa), Research Community Manager Open Collaboration, The Alan Turing Institute
-- Dr Batool Almarzooq (BatoolMM), Research Project Manager AIM RSF, The Alan Turing Institute
-- Dr Evelina Gabasoca (egabasova), AIM RSF Co-I & Principal Research Data Scientist, The Alan Turing Institute
+- Dr Batool Almarzouq (BatoolMM), Research Project Manager AIM RSF, The Alan Turing Institute
+- Dr Evelina Gabasova (egabasova), AIM RSF Co-I & Principal Research Data Scientist, The Alan Turing Institute
