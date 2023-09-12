@@ -27,8 +27,8 @@ Claimants traveling by train must also use standard class (unless a cheaper fare
 
 To **claim back your expenses**, we need **three types of files** from you. Please click on the links below to access the files:
 - Receipts (images/PDFs): Please include clear photos or copies of your receipts, and include the itemised list version of the receipt where possible.
-- Expense form (Excel): Please complete this in the currency of the expense that occurred. If you can’t do this, please note it in the email back to us, and we'll fix it. You need to add your sort code and bank details, date, and Gross Value accurately. If it's not filled in, we won't be able to process your reimbursement.
-- Travel & expenses policy (PDF/jpg, signed): We cannot process your expenses without this, so please don't leave it out. All your bank details need to be filled in except for the Name of the Turing Approver/Supervisor. 
+- [Expense form (Excel)](https://az659834.vo.msecnd.net/eventsairwesteuprod/production-uobevents-public/2662fbd88e3f40e09d5f4bc3ab9ae9c5): Please complete this in the currency of the expense that occurred. If you can’t do this, please note it in the email back to us, and we'll fix it. You need to add your sort code and bank details, date, and Gross Value accurately. If it's not filled in, we won't be able to process your reimbursement.
+- [Travel & expenses policy (PDF/jpg, signed)](https://az659834.vo.msecnd.net/eventsairwesteuprod/production-uobevents-public/55742e599b004367b24d306d7ad73916): We cannot process your expenses without this, so please don't leave it out. All your bank details need to be filled in except for the Name of the Turing Approver/Supervisor. 
 
 **_If you're sending the forms and receipts to RSF team (aimrsf@turing.ac.uk) independently and not through your consortium project manager, please make sure that you use DocuSign and complete all docs.
 You should have received an email from DocuSign with all docs._**
