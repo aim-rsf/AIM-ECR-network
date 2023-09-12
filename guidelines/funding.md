@@ -15,9 +15,9 @@ The RSF team, based at The Alan Turing Institute, will manage the booking of tra
 
 There are two options for reimbursement:
 
-- If the ECRs are purchasing tickets through their internal institution system, individual consortia are asked to collate all travel expenses for their research group and to submit a single collective claim to the RSF team for reimbursement via the three forms (not through a purchase order). Consortia will need to fill them only once. The value of the ticket should be in alignment with Turing Travel policy. RSF will then administer this to the value of £150 (maximum) for each consortium member travelling.
+- If the ECRs are purchasing tickets through their internal institution system, individual consortia are asked to collate all travel expenses for their research group and to submit a single collective claim to the RSF team for reimbursement via three types of documents described below (not through a purchase order). Consortia will need to fill them only once. The value of the ticket should be in alignment with Turing Travel policy. RSF will then administer this to the value of £150 (maximum) for each consortium member travelling.
 
-- If the ECR is paying on their own, each will need to submit individually by filling in the 3 forms below.
+- If the ECR is paying on their own, each will need to submit individually by submitting three types of documents described below.
 
 Please note if the consortia are paying for travel expenses through their internal system and can't fill in the forms and will need to invoice us through a Purchase Order, the AIM RSF (aimrsf@turing.ac.uk) will need to be notified by **14 September** to discuss the options.
 
