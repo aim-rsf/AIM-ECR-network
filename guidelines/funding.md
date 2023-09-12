@@ -19,7 +19,7 @@ There are two options for reimbursement:
 
 - If the ECR is paying on their own, each will need to submit individually by filling in the 3 forms below.
 
-Please note if the consortia is paying for travel expenses through their internal system and can't fill in the forms and will need to invoice us through a Purchase Order, AIM RSF (aimrsf@turing.ac.uk) need to be notified by the 14th of Sept to discuss the options.
+Please note if the consortia are paying for travel expenses through their internal system and can't fill in the forms and will need to invoice us through a Purchase Order, the AIM RSF (aimrsf@turing.ac.uk) will need to be notified by **14 September** to discuss the options.
 
 Whenever feasible, we encourage individual consortia to consolidate all travel expenses for their research group and submit a single collective claim to the RSF team for reimbursement. The RSF will then process reimbursements up to the value of £150 for each consortium member who traveled.
 
