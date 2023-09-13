@@ -11,7 +11,7 @@ The RSF can arrange hotel accommodation for a maximum of one day if explicitly r
 ## Travel Expenses
 **As part of the ECR Day arrangements, the RSF is pleased to offer a travel cost subsidy of up to £150 (inclusive of VAT) per ECR.**
 
-The RSF team, based at The Alan Turing Institute, will manage the booking of travel arrangements to and from the Turing, in compliance with The Alan Turing Institute’s internal Travel and Expenses Policy.
+The Turing can't arrange the travel for non-turing staff directly. ECRs will have to arrange their own travel with their research consortia and request reimbursement via one of the methods below. All travel should be in compliance with [The Alan Turing Institute’s internal Travel and Expenses Policy](https://az659834.vo.msecnd.net/eventsairwesteuprod/production-uobevents-public/55742e599b004367b24d306d7ad73916).
 
 There are two options for reimbursement:
 
