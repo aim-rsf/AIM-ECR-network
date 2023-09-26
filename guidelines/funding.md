@@ -1,29 +1,29 @@
 # Funding Guidelines
 
-This document outlines the funding opportunities provided by the AIM RSF (Alan Turing Institute Research Support Fund) for the Early Career Researcher (ECR) Day scheduled for **November 23, 2023,** at the Alan Turing Institute.
-
-## Accessibility Fund
-We are delighted to offer an Accessibility Fund designed to support individuals with specific needs. This fund extends to a maximum of ten applicants, each eligible for financial assistance of up to £250. To apply for the Accessibility Fund, it is essential to clearly articulate your specific accommodation requirements and provide a compelling explanation of why these accommodations are necessary. Additionally, please confirm your ability to provide receipts. This information enables us to tailor our support to ensure your experience is as comfortable and accessible as possible. Examples of accessibility needs may include childcare, an extra night's stay at a hotel due to caregiving responsibilities, and more.
-
-## Hotel Expenses
-The RSF can arrange hotel accommodation for a maximum of one day if explicitly requested in the registration form. However, if you have applied for the accessibility fund, which includes a request for an additional night, this exception will apply.
+This document outlines the funding opportunities provided by the AIM RSF (Alan Turing Institute Research Support Facility ) for the Early Career Researcher (ECR) Day scheduled for **November 23, 2023,** at the Alan Turing Institute, British Library, London.
 
 ## Travel Expenses
 **As part of the ECR Day arrangements, the RSF is pleased to offer a travel cost subsidy of up to £150 (inclusive of VAT) per ECR.**
 
-The Turing can't arrange the travel for non-turing staff directly. ECRs will have to arrange their own travel with their research consortia and request reimbursement via one of the methods below. All travel should be in compliance with [The Alan Turing Institute’s internal Travel and Expenses Policy](https://az659834.vo.msecnd.net/eventsairwesteuprod/production-uobevents-public/55742e599b004367b24d306d7ad73916).
+The Turing can't arrange the travel for non-Turing staff directly. ECRs will have to arrange their own travel and request reimbursement via one of the methods below. All travel should be in compliance with [The Alan Turing Institute’s internal Travel and Expenses Policy](https://az659834.vo.msecnd.net/eventsairwesteuprod/production-uobevents-public/55742e599b004367b24d306d7ad73916).
 
 There are two options for reimbursement:
 
-- If the ECRs are purchasing tickets through their internal institution system, individual consortia are asked to collate all travel expenses for their research group and to submit a single collective claim to the RSF team for reimbursement via three types of documents described below (not through a purchase order). Consortia will need to fill them only once. The value of the ticket should be in alignment with Turing Travel policy. RSF will then administer this to the value of £150 (maximum) for each consortium member travelling.
+- We encourage ECRs to purchase travel tickets through their internal institution system and for individual consortia to collate all travel expenses for their research group. A single collective claim using the three types of documents outlined below should be submitted to the RSF team for reimbursement. Consortia will need to fill them only once. RSF will then administer this to the value of £150 (maximum) for each consortium member travelling. 
 
-- If the ECR is paying on their own, each will need to submit individually by submitting three types of documents described below.
+- If the ECR is paying individually, each will need to submit individually by submitting three types of documents described below.
 
-Please note if the consortia are paying for travel expenses through their internal system and can't fill in the forms and will need to invoice us through a Purchase Order, the AIM RSF (aimrsf@turing.ac.uk) will need to be notified by **14 September** to discuss the options.
-
-Whenever feasible, we encourage individual consortia to consolidate all travel expenses for their research group and submit a single collective claim to the RSF team for reimbursement. The RSF will then process reimbursements up to the value of £150 for each consortium member who traveled.
+In exceptional circumstances, we are able to reimburse consortia through a Purchase Order if consortia internal systems prohibit the use the forms below. For this process, the AIM RSF (aimrsf@turing.ac.uk) will need to be notified by **14 September** to discuss the options.
 
 In line with our commitment to sustainability, we strongly recommend selecting the most cost-effective and environmentally friendly means of travel. Delegates traveling by train should explore cost-saving options, such as utilizing existing travel cards and discounts. Claimants traveling by train must use standard class unless a cheaper fare in first class is available.
+
+## Hotel Expenses
+The RSF can arrange hotel accommodation for a maximum of one night if  requested in the registration form. Successful applicants to the Accessibility Fund can request an additional night's stay if required. 
+
+## Accessibility Fund
+We are delighted to offer an Accessibility Fund designed to support individuals with specific needs. This fund extends to a maximum of ten applicants, each eligible for financial assistance of up to £250. Examples of accessibility needs include (but are not limited to) childcare provision and/or an extra night's stay at a hotel due to caregiving responsibilities. To apply for the Accessibility Fund, it is essential to clearly articulate your specific  requirements and a compelling explanation of why these are necessary. This information enables us to tailor our support to ensure your experience is as comfortable and accessible as possible.  Receipts will be required for the funds to be provided. 
+
+## The Reimbursement Process
 
 To initiate the **expenses reimbursement process**, we require **three types of documents** from you. Please click on the links below to access the necessary files:
 
