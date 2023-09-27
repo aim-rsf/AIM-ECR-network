@@ -6,7 +6,7 @@ This document outlines the funding opportunities provided by the AIM RSF (Alan T
 We are delighted to offer an Accessibility Fund designed to support individuals with specific needs. This fund extends to a maximum of ten applicants, each eligible for financial assistance of up to £250. To apply for the Accessibility Fund, it is essential to clearly articulate your specific accommodation requirements and provide a compelling explanation of why these accommodations are necessary. Additionally, please confirm your ability to provide receipts. This information enables us to tailor our support to ensure your experience is as comfortable and accessible as possible. Examples of accessibility needs may include childcare, an extra night's stay at a hotel due to caregiving responsibilities, and more.
 
 ## Hotel Expenses
-The RSF can arrange hotel accommodation for a maximum of one day if explicitly requested in the registration form. However, if you have applied for the accessibility fund, which includes a request for an additional night, this exception will apply.
+The RSF can arrange hotel accommodation for a maximum of one day if explicitly requested in the registration form. However, if you have applied for the accessibility fund, which includes a request for an additional night, this exception will apply..
 
 ## Travel Expenses
 **As part of the ECR Day arrangements, the RSF is pleased to offer a travel cost subsidy of up to £150 (inclusive of VAT) per ECR.**
