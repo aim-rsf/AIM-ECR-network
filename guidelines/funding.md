@@ -3,7 +3,7 @@
 This document outlines the funding opportunities provided by the AIM RSF (Alan Turing Institute Research Support Facility ) for the Early Career Researcher (ECR) Day scheduled for **November 23, 2023,** at the Alan Turing Institute, British Library, London.
 
 ## Travel Expenses
-**As part of the ECR Day arrangements, the RSF is pleased to offer a travel cost subsidy of up to £150 (inclusive of VAT) per ECR.**
+**As part of the ECR Day arrangements, the RSF is pleased to offer a travel cost subsidy of up to £200 (inclusive of VAT) per ECR.**
 
 The Turing can't arrange the travel for non-Turing staff directly. ECRs will have to arrange their own travel and request reimbursement via one of the methods below. All travel should be in compliance with [The Alan Turing Institute’s internal Travel and Expenses Policy](https://az659834.vo.msecnd.net/eventsairwesteuprod/production-uobevents-public/55742e599b004367b24d306d7ad73916).
 
