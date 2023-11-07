@@ -53,6 +53,15 @@
       "contributions": [
         "talk"
       ]
+    },
+    {
+      "login": "MauriceOConnell",
+      "name": "Maurice O Connell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4921691?v=4",
+      "profile": "https://www.research.manchester.ac.uk/portal/maurice.oconnell.html",
+      "contributions": [
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
