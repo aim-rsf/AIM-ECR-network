@@ -1,6 +1,6 @@
 # About
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This repository contains planning documents for the AIM RSF Early Career Researcher day.
 
@@ -46,6 +46,7 @@ Current developers and maintainers are:
       <td align="center" valign="top" width="14.28%"><a href="https://batool-almarzouq.netlify.app/"><img src="https://avatars.githubusercontent.com/u/53487593?v=4?s=100" width="100px;" alt="Batool Almarzouq"/><br /><sub><b>Batool Almarzouq</b></sub></a><br /><a href="#ideas-BatoolMM" title="Ideas, Planning, & Feedback">🤔</a> <a href="#eventOrganizing-BatoolMM" title="Event Organizing">📋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SydneyAmbrose"><img src="https://avatars.githubusercontent.com/u/144704015?v=4?s=100" width="100px;" alt="SydneyAmbrose"/><br /><sub><b>SydneyAmbrose</b></sub></a><br /><a href="#eventOrganizing-SydneyAmbrose" title="Event Organizing">📋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/LizRem"><img src="https://avatars.githubusercontent.com/u/96423108?v=4?s=100" width="100px;" alt="Lizzie Remfry"/><br /><sub><b>Lizzie Remfry</b></sub></a><br /><a href="#talk-LizRem" title="Talks">📢</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/robertachiovoloni"><img src="https://avatars.githubusercontent.com/u/110401047?v=4?s=100" width="100px;" alt="Roberta Chiovoloni"/><br /><sub><b>Roberta Chiovoloni</b></sub></a><br /><a href="#talk-robertachiovoloni" title="Talks">📢</a></td>
     </tr>
   </tbody>
 </table>
