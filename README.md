@@ -30,3 +30,14 @@ Current developers and maintainers are:
 - Dr Eirini Zormpa (eirini-zormpa), Research Community Manager Open Collaboration, The Alan Turing Institute
 - Dr Batool Almarzouq (BatoolMM), Research Project Manager AIM RSF, The Alan Turing Institute
 - Dr Evelina Gabasova (egabasova), AIM RSF Co-I & Principal Research Data Scientist, The Alan Turing Institute
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
