@@ -35,6 +35,15 @@
       "contributions": [
         "eventOrganizing"
       ]
+    },
+    {
+      "login": "LizRem",
+      "name": "Lizzie Remfry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96423108?v=4",
+      "profile": "https://github.com/LizRem",
+      "contributions": [
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
