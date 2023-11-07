@@ -26,6 +26,15 @@
         "ideas",
         "eventOrganizing"
       ]
+    },
+    {
+      "login": "SydneyAmbrose",
+      "name": "SydneyAmbrose",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144704015?v=4",
+      "profile": "https://github.com/SydneyAmbrose",
+      "contributions": [
+        "eventOrganizing"
+      ]
     }
   ],
   "contributorsPerLine": 7,
