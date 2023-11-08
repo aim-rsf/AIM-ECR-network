@@ -80,6 +80,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "Juillermo",
+      "name": "Guillermo Romero Moreno",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26553813?v=4",
+      "profile": "https://github.com/Juillermo",
+      "contributions": [
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
