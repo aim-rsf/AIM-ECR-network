@@ -1,6 +1,6 @@
 # About
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This repository contains planning documents for the AIM RSF Early Career Researcher day.
 
@@ -55,6 +55,7 @@ Current developers and maintainers are:
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Juillermo"><img src="https://avatars.githubusercontent.com/u/26553813?v=4?s=100" width="100px;" alt="Guillermo Romero Moreno"/><br /><sub><b>Guillermo Romero Moreno</b></sub></a><br /><a href="#talk-Juillermo" title="Talks">📢</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/HildaoH"><img src="https://avatars.githubusercontent.com/u/147197481?v=4?s=100" width="100px;" alt="HildaoH"/><br /><sub><b>HildaoH</b></sub></a><br /><a href="#talk-HildaoH" title="Talks">📢</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/TingCai1004"><img src="https://avatars.githubusercontent.com/u/43291603?v=4?s=100" width="100px;" alt="TingCai1004"/><br /><sub><b>TingCai1004</b></sub></a><br /><a href="#talk-TingCai1004" title="Talks">📢</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://sami.cloud"><img src="https://avatars.githubusercontent.com/u/11949941?v=4?s=100" width="100px;" alt="H Sami Adnan"/><br /><sub><b>H Sami Adnan</b></sub></a><br /><a href="#talk-sami5001" title="Talks">📢</a></td>
     </tr>
   </tbody>
 </table>
