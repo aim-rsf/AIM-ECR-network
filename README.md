@@ -14,7 +14,7 @@ This schedule is provisional and subject to change.
 
 | Time  | Session                    | Who        |
 | ----- | -------------------------- | ---------- |
-| 09:30 | Coffee & participant bingo | Everyone   |
+| 09:15 | Coffee & participant bingo | Everyone   |
 | 10:00 | Welcome                    | Eirini     |
 | 10:15 | 3-minute lightning talks   | 7 AIM ECRs |
 | 10:45 | Meet the speaker           | Everyone   |
