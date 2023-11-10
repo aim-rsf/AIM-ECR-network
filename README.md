@@ -10,7 +10,7 @@ This repository contains planning documents for the AIM RSF Early Career Researc
 This schedule is provisional and subject to change.
 
 - 📍 Enigma, The Alan Turing Institute
-- 🕤 23 November 2023, 9:30 - 16:15
+- 🕤 23 November 2023, 9:15 - 16:15
 
 | Time  | Session                    | Who        |
 | ----- | -------------------------- | ---------- |
