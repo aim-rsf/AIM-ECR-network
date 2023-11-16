@@ -29,9 +29,9 @@ To initiate the **expenses reimbursement process**, we require **three types of 
 
 - **Receipts (images/PDFs):** Include clear photos or copies of your receipts, ensuring that the itemized list version of the receipt is visible where available.
 
-- **[Expense form (Excel)](https://az659834.vo.msecnd.net/eventsairwesteuprod/production-uobevents-public/2662fbd88e3f40e09d5f4bc3ab9ae9c5):** Complete this form in the currency corresponding to the expense. If this is not possible, please indicate this in your email to us, and we will assist you. Ensure accurate inclusion of your sort code, bank details, date, and Gross Value. Incomplete forms will result in processing delays.
+- **[Expense form (Excel)](https://docs.google.com/spreadsheets/d/1zJ7iw5KGYZi5MvCUejIF-yGbsG-jT8fS/edit#gid=1829288479):** Copy this form  and complete it, please indicate this in your email to us, and we will assist you. Ensure accurate inclusion of your sort code, bank details, date, and Gross Value. Incomplete forms will result in processing delays.
 
-- **[Travel & Expenses Policy (PDF/jpg, signed)](https://az659834.vo.msecnd.net/eventsairwesteuprod/production-uobevents-public/55742e599b004367b24d306d7ad73916):** This document is essential for processing your expenses; therefore, please do not omit it. Ensure all bank details are filled in, with the exception of the Name of the Turing Approver/Supervisor.
+- **[Travel & Expenses Policy (PDF/jpg, signed)](https://drive.google.com/file/d/1tf7GkghBJp1mVKNtZCsrS_lsGhyyxg8o/view?usp=share_link):** This document is essential for processing your expenses; therefore, please do not omit it. Copy it and ensure all bank details are filled in, with the exception of the Name of the Turing Approver/Supervisor.
 
 **_If you are sending the forms and receipts to the RSF team (aimrsf@turing.ac.uk) independently, rather than through your consortium project manager, please utilize DocuSign and complete all documents. You should have received an email from DocuSign containing all the necessary documents._**
 
