@@ -6,15 +6,12 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This repository contains planning documents for the AIM RSF Early Career Researcher day.
 
-<img src="https://github.com/aim-rsf/ecr-day/assets/30151074/6f8e9514-f240-4e31-b77f-fee7a8c0c416" alt="ecr-day-poster" style="width:50%; height:50%"/>
-
----
 
 **About**
 
 This repository houses the planning documents for the AIM RSF Early Career Researcher (ECR) Day, which took place on November 23, 2023, at Enigma, The Alan Turing Institute. The event brought together AIM (AI for the Mathematical Sciences) researchers and ECRs for a day of knowledge sharing and collaboration.
 
-![ECR Day Poster](https://github.com/aim-rsf/ecr-day/assets/30151074/6f8e9514-f240-4e31-b77f-fee7a8c0c416)
+<img src="https://github.com/aim-rsf/ecr-day/assets/30151074/6f8e9514-f240-4e31-b77f-fee7a8c0c416" alt="ecr-day-poster" style="width:50%; height:50%"/>
 
 ** Schedule**
 
