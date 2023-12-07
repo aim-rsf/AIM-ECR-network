@@ -28,6 +28,53 @@ This schedule is provisional and subject to change.
 | 16:00 | Closing remarks            | Eirini     |
 | 16:15 | End                        |            |
 
+## Participants
+
+| Name                     | Research Consortium |
+|--------------------------|--------------|
+| Chunyu Zheng             | AIM CISC     |
+| Paola Galdi              | AIM CISC     |
+| Abul Hasan               | AIM CISC     |
+| Eleojo Abubakar          | AIM CISC     |
+| Imane Guellil            | AIM CISC     |
+| Guillermo Romero Moreno  | AIM CISC     |
+| Sydney Ambrose           | AIM RSF      |
+| Mahwish Mohammad         | AIM RSF      |
+| Eirini Zormpa            | AIM RSF      |
+| Evelina Gabasova         | AIM RSF      |
+| Christos Chalitsios      | AIM Study (Southampton) |
+| Lucy Kaluvu              | AIM Study (Southampton) |
+| Hilda Hounkpatin         | AIM Study (Southampton) |
+| Alisha Angdembe          | AI-MULTIPLY  |
+| Fabiola Eto              | AI-MULTIPLY  |
+| Elizabeth Remfry         | AI-MULTIPLY  |
+| Cynthia Drakesmith       | CoMPuTE      |
+| Micheal McKenna          | CoMPuTE      |
+| Ishbel Henderson         | CoMPuTE      |
+| Subhashisa Swain         | CoMPuTE      |
+| Sami Adnan               | CoMPuTE      |
+| Ting Cai                 | CoMPuTE      |
+| Anthony Webster          | CoMPuTE      |
+| Akshika Wijesundara      | DECODE       |
+| Eleanor Harvey           | DECODE       |
+| Rania Kousovista         | DECODE       |
+| Alison Drewett           | DECODE       |
+| Emeka Abakasanga         | DECODE       |
+| Layik Hama               | DynAIRx      |
+| Hattie Cant              | DynAIRx      |
+| Maurice O'Connell        | DynAIRx      |
+| Asra Aslam               | DynAIRx      |
+| Micheal Abaho            | DynAIRx      |
+| Emilia Holland           | MELD-B       |
+| Mozhdeh Shiranirad       | MELD-B       |
+| Seb Stannard             | MELD-B       |
+| Roberta Chiovoloni       | MELD-B       |
+| Rachael Stickland        | AIM RSF      |
+| Batool Almarzouq         | AIM RSF      |
+| Kirstie Whitaker         | AIM RSF      |
+| Emma Karoune             | AIM RSF      |
+
+
 ## Maintainers
 Current developers and maintainers are:
 - Dr Eirini Zormpa (eirini-zormpa), Research Community Manager Open Collaboration, The Alan Turing Institute
