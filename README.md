@@ -91,6 +91,17 @@ We were delighted to have ECRs from various research consortia join us for this 
   - Seb Stannard
   - Roberta Chiovoloni
 
+**Lightening Talks**
+
+- Lucy Kaluvu. (2023, December 19). NIHR Short Placement for Research Collaboration Award 2023-2024 Advanced big data, MLTCs clustering, and the role of media in dissemination and engagement. Zenodo. https://doi.org/10.5281/zenodo.10404279
+- Hilda Hounkpatin. (2023, December 19). Loneliness, social isolation and multiple long-term conditions (MLTCs). Zenodo. https://doi.org/10.5281/zenodo.10404295
+- Micheal Abaho. (2023, December 19). Artificial Intelligence for dynamic prescribing optimisation and care integration in multimorbidity. Zenodo. https://doi.org/10.5281/zenodo.10404297
+- Roberta Chiovoloni. (2023, December 19). SAIL Cohort curation for MELD-B. Zenodo. https://doi.org/10.5281/zenodo.10404313
+- Maurice O'Connell,. (2023, December 19). The DynAIRx Project: Artificial Intelligence for dynamic prescribing optimisation and care integration in multimorbidity - Work Package 3: Causal Inference Methodology. Zenodo. https://doi.org/10.5281/zenodo.10404303
+- Imane Guellil. (2023, December 19). Detection of geriatric syndromes and adverse events using natural language processing. Zenodo. https://doi.org/10.5281/zenodo.10404327
+- Guillermo Romero Moreno. (2023, December 19). Bayesian inference techniques for the analysis of associations between morbidities. Zenodo. https://doi.org/10.5281/zenodo.10404323
+- 
+
 **Group Photo**
 
 ![Group Photo](https://github.com/aim-rsf/ecr-day/assets/53487593/fe4c75e2-e15d-4d3c-95ac-ca25d910622e)
