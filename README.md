@@ -4,15 +4,19 @@
 
 # AIM ECRs Network
 
+Traditionally, academic research has often been confined within silos, with individual researchers or teams working in isolation, disconnected from the broader community. This siloed approach, while developing deep expertise, frequently limits the exchange of ideas, interdisciplinary collaboration, and the holistic development of solutions, especially critical in the field of MLTC. Recognising this, the AIM RSF is dedicated to dismantling these barriers, creating a convening space where a collaborative community can grow. Our vision is to [transform the landscape of MLTC research] by building an ecosystem where collaboration grows. By bringing together diverse stakeholders from various disciplines and backgrounds within the AIM community, we aim to facilitate a rich exchange of knowledge, resources, and perspectives between each of the 8 independent AIM consortia.
+
+RSF is  empowering the next generation of MLTC researchers. It is building a collaborative Early Career Researchers (ECR) network within the AIM community, particularly through theme 3. This is a strategic move towards building a sustainable community that endures beyond the lifespan of the AIM grant (see section 2). The network, jointly led by ECR representatives from eight research consortia, co-organising ECR events, is overseen by the Turing Health Senior Community Manager. It benefits from online lunchtime sessions, training, and a series of in-person ECR events.
 
 **Maintainers**
 
 The current developers and maintainers of this repository are:
 
-- Dr. Eirini Zormpa (eirini-zormpa), Research Community Manager, Open Collaboration, The Alan Turing Institute
+- Dr. Emma Karoune (EKaroune), Senior Community Manager, The Alan Turing Institute
 - Dr. Batool Almarzouq (BatoolMM), Research Project Manager AIM RSF, The Alan Turing Institute
 - Dr. Evelina Gabasova (egabasova), AIM RSF Co-Investigator & Principal Research Data Scientist, The Alan Turing Institute
 
+> Note: This repo was initially created by Dr. Eirini Zormpa (eirini-zormpa).
 
 ## Contributors
 
