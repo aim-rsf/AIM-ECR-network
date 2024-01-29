@@ -1,5 +1,5 @@
 ---
-name: ECR reps Meeting
+name: ECR Reps Meeting
 about: ECR reps Meeting prep
 title: ''
 labels: ''

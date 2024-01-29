@@ -1,5 +1,5 @@
 ---
-name: ECR lunchtime Session
+name: ECR Lunchtime Session
 about: This template to prepare for ECR lunchtime Session
 title: ''
 labels: ECR-lunchtime
