@@ -2,10 +2,6 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Certainly! Here's an enhanced version of your README with added emojis and the requested information:
-
----
-
 # 🌐 AIM ECRs Network
 
 AIM RSF's vision is to transform the landscape of MLTC research by building an ecosystem where collaboration grow. By bringing together diverse stakeholders from various disciplines and backgrounds within the AIM community, we aim to facilitate a rich exchange of knowledge, resources, and perspectives between each of the 8 independent AIM consortia.
