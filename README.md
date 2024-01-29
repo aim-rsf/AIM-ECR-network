@@ -6,7 +6,7 @@
 
 AIM RSF's vision is to transform the landscape of MLTC research by building an ecosystem where collaboration grow. By bringing together diverse stakeholders from various disciplines and backgrounds within the AIM community, we aim to facilitate a rich exchange of knowledge, resources, and perspectives between each of the 8 independent AIM consortia.
 
-Therefore, RSF is empowering the next generation of MLTC researchers. It is building a collaborative Early Career Researchers (ECR) network within the AIM community, particularly through theme 3. This is a strategic move towards building a sustainable community that endures beyond the lifespan of the AIM grant (see section 2). The network, jointly led by ECR representatives from eight research consortia, co-organising ECR events, is overseen by the Turing Health Senior Community Manager. It benefits from online lunchtime sessions, training, and a series of in-person ECR events.
+Therefore, RSF is empowering the next generation of MLTC researchers. It is building a collaborative Early Career Researchers (ECR) network within the AIM community, particularly through theme 3. This is a strategic move towards building a sustainable community that endures beyond the lifespan of the AIM grant. The network, jointly led by ECR representatives from eight research consortia, co-organising ECR events, is overseen by the Turing Health Senior Community Manager. It benefits from online lunchtime sessions, training, and a series of in-person ECR events.
 
 This repository 📁 will serve as a central hub for materials related to ECR activities within the AIM community. Here, you'll find:
 
