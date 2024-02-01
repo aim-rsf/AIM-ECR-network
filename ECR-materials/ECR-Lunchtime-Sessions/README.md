@@ -15,9 +15,9 @@ This is the schedule for 2023 and 2024.
 
 | Date         | Speaker             | Title/Topic                          | Links   |
 | ------------ | --------------------| ------------------------------------ |-------- |
-| 27 March 2024 | Anthony Webster | TBC |  |
-| 28 February 2024 | TBC | TBC |  |
-| 24 January 2024 | Emma Karoune | Plans for 2024 |  |
+| 27 March 2024 | Anthony Webster | The causes of multimorbidity? |  |
+| 28 February 2024 | Evelina Gabasova | MLTC definitions, code lists |  |
+| 24 January 2024 | Emma Karoune | Plans for 2024 | [Slides](https://docs.google.com/presentation/d/1gScnEI_G9qhWQoO4YBygVW-krJTIAAeY/edit?usp=sharing&ouid=112341831917451198511&rtpof=true&sd=true) |
 | 27 December 2023  | None                | CANCELLED (holidays)                 | |
 | 22 November 2023 | TBA                 | TBA                                  | |
 | 25 October 2023  | Jenny Cooper        | What information do electronic health records databases really capture? | |
