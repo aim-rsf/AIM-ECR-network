@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # 🌐 AIM ECRs Network
@@ -48,6 +48,7 @@ The current developers and maintainers of this repository are:
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/TingCai1004"><img src="https://avatars.githubusercontent.com/u/43291603?v=4?s=100" width="100px;" alt="TingCai1004"/><br /><sub><b>TingCai1004</b></sub></a><br /><a href="#talk-TingCai1004" title="Talks">📢</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://sami.cloud"><img src="https://avatars.githubusercontent.com/u/11949941?v=4?s=100" width="100px;" alt="H Sami Adnan"/><br /><sub><b>H Sami Adnan</b></sub></a><br /><a href="#talk-sami5001" title="Talks">📢</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/abulhasanbbk"><img src="https://avatars.githubusercontent.com/u/30344464?v=4?s=100" width="100px;" alt="Abul Hasan"/><br /><sub><b>Abul Hasan</b></sub></a><br /><a href="#talk-abulhasanbbk" title="Talks">📢</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/EKaroune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt="Emma Karoune"/><br /><sub><b>Emma Karoune</b></sub></a><br /><a href="https://github.com/aim-rsf/AIM-ECR-network/commits?author=EKaroune" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
