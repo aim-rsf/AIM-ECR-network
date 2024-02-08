@@ -1,9 +1,7 @@
 # First meeting! :raised_hands: 
 ## :date: 24 January 2024 - 11am-12pm
 - :round_pushpin: Join Zoom Meeting
-https://turing-uk.zoom.us/j/98051959704?pwd=OVJmYm4xck5nU0gwbFlUVkRpN2hydz09
-    - Meeting ID: 980 5195 9704
-    - Passcode: 248457
+
 
 ### Roll call
 * Asra Aslam
