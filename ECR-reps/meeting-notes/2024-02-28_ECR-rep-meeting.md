@@ -58,9 +58,11 @@
 
 ### Actions
 
-- [ ] Batool to see if we can add a date range.
-- [ ] Batool to add minimum text input in the application
-- [ ] Batool will add documents that have RCs interested
-- [ ] Batool will create more instructions/templates about the timeline for in-person events.
+- [X] Batool to see if we can add date range.
+    - Google doc can't do range, so I changed it to text box
+- [ ] Batool to add minmum text input in the application
+- [X] Batool will add document that have RCs interested
+    - It has been added here: https://docs.google.com/spreadsheets/d/1-U8Fh3MEPDfcgNDIiof5NbFyIyb6G6w7zPUqxJ0GBLw/edit?usp=sharing
+- [ ] Batool will create more instructions/template about timeline for in-person events.
 - [ ] Batool will create a list for target audience questions to make it easier to select and fill in the form.
-- [ ] Batool to provide a budget breakdown template to be added to the application
+- [ ] Batool to provide a budget breakdown template to be added in the application
