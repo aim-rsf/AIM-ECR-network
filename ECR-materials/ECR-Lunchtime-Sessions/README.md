@@ -15,8 +15,8 @@ This is the schedule for 2023 and 2024.
 
 | Date         | Speaker             | Title/Topic                          | Links   |
 | ------------ | --------------------| ------------------------------------ |-------- |
-| 24 July 2024 | TBC | | |
-| 26 June 2024 | TBC | | |
+| 24 July 2024 | Emma Karoune | Narrative CVs | |
+| 26 June 2024 | Cancelled | Grant writing training sessions the same week | |
 | 22 May 2024 | Imane Guellil | The Detection of Geriatric Syndromes and adverse events using Natural Language Processing | |
 | 24 April 2024 | Guillermo Romero Moreno | Multimorbidity analysis with low condition counts: a robust Bayesian approach for small but important subgroups | [link to paper]( https://www.sciencedirect.com/science/article/pii/S2352396424001166) |
 | 27 March 2024 | Anthony Webster | The causes of multimorbidity? | [Notes](https://github.com/aim-rsf/AIM-ECR-network/blob/main/ECR-materials/ECR-Lunchtime-Sessions/ECR-Lunchtime-sessions-27032024.md) |
