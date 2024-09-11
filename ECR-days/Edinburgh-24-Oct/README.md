@@ -14,7 +14,7 @@ As we all have a great deal of experience from our AIM projects on what working 
 The event will be hybrid. We can host up to 35 in-person attendees, with budget to pay for travel (up to £150) and accommodation for up to 25 attendees. Registration can be done until the 12th of September [here](https://forms.gle/1fqM9RHPExLBodS69).
 
 
-** Schedule**
+**Schedule**
 
 - **Location:** Informatics Forum, 10 Crichton St, Newington, Edinburgh EH8 9AB, https://maps.app.goo.gl/FZBVN32RvKm66ZWZ8. (Fully accessible building.) The Informatics Forum is conveniently located at the Central Campus of the University of Edinburgh, just 15 minutes to Edinburgh Waverly Train Station.
 - **Date and Time:** 24th October 2024, from 9:15 AM to 4:20 PM
@@ -33,7 +33,7 @@ The event will be hybrid. We can host up to 35 in-person attendees, with budget 
 | 16:20 | The End                                                   |                |
 
 
-##Funding guidelines
+## Funding guidelines
 
 **The workshop, accommodation, and transport (up to £150, inclusive of VAT) are fully funded.** The AI for Multiple Long Term Conditions Research Support Facility can provide support with costs for travel and the AIM-CISC team will be organising accommodation (for a maximum of 1 night if requested in the registration form). There is also an accessibility fund which can support additional travel or other costs, to help facilitate attendance for those who may need it.
 
@@ -42,17 +42,16 @@ We can't arrange the travel directly, so ECRs will have to arrange their own tra
 Full information on the travel and accommodation funding guidelines and requesting reimbursement can be found [here](https://docs.google.com/document/d/1gzVB4cKMg4jXUPmFYvEs-osCxxMS9w8Mxc1YpbCrgjo/edit#heading=h.fmuzkahh3sk5).
 
 
-##Organisation
+## Organisation
 **Organising committee at AIM-CISC**
-- Guillermo Romero Moreno, Chair
-- Imane Guellil, Communication
-- Paola Galdi, Venue
-- Chunyu Zheng, Accommodation
-- Janice Murray, Support
-- Stella Arakelyan, Support
-- Eleojo Abubakar, Support
-- Jake Palmer, Support
+- **Guillermo Romero Moreno**, Chair
+- **Imane Guellil**, Communication
+- **Paola Galdi**, Venue
+- **Chunyu Zheng**, Accommodation
+- **Janice Murray, Stella Arakelyan, Eleojo Abubakar, Jake Palmer**, Support
+- **Lucy McCloughan & Louise Hartley**, legal & finance
+- **Ailsa Barclay & Gregor Hall**, admin support
 
-This event is being co-organised with the AI for Multiple Long Term Conditions Research Support Facility, hosted by the Alan Turing Institute. (Thanks Batool and AIM RSF team for all the help.)
+This event is being co-organised with the AI for Multiple Long Term Conditions Research Support Facility, hosted by the Alan Turing Institute. (Thanks **Batool** and the **AIM RSF team** for all the help.)
 
-Many thanks to Verena Knerich for delivering the training session at the event and for providing lots of valuable feedback on the planning of the program and materials for the activities. Many thanks to Anna Pilz and the Institute of Academic Development at the University of Edinburgh for providing part of the interdisiclinarity training.
+Many thanks to **Verena Knerich** for delivering the training session at the event and for providing lots of valuable feedback on the planning of the program and materials for the activities. Many thanks to **Anna Pilz** and the **Institute of Academic Development** at the University of Edinburgh for providing part of the interdisiclinarity training.
