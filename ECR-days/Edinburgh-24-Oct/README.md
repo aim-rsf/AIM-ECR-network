@@ -24,7 +24,7 @@ The event will be hybrid. We can host up to 35 in-person attendees, with budget 
 | 09:15 | Welcome & ice-breaker                                     | Guillermo      |
 | 10:00 | Interdisciplinarity workshop I                            | Anna Pilz      |
 | 11:00 | Comfort break                                             |                |
-| 11:15 | Reflection & sharing of interdisciplinarity experience    | Imane Guellil  |
+| 11:10 | Reflection & sharing of interdisciplinarity experience    | Imane Guellil  |
 | 12:30 | Lunch                                                     |                |
 | 13:30 | Bazaar for discussion around specific topics              |                |
 | 14:20 | Comfort break                                             |                |
