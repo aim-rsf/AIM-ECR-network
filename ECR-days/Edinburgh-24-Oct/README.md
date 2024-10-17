@@ -11,7 +11,7 @@ In this event we will delve into
 - and what skills are needed for making cross-disciplinary collaborations effective.
 As we all have a great deal of experience from our AIM projects on what working in an interdisciplinary project involves, we will also use the workshop to reflect and share the challenges, solutions, and lessons learned from it.
 
-The event will be hybrid. We can host up to 35 in-person attendees, with budget to pay for travel (up to £150) and accommodation for up to 25 attendees. Registration can be done until the 12th of September [here](https://forms.gle/1fqM9RHPExLBodS69).
+The event will be hybrid. We can host up to 30 in-person attendees, with budget to pay for travel (up to £200) and accommodation for up to 25 attendees. Registration can be done until the 12th of September [here](https://forms.gle/1fqM9RHPExLBodS69).
 
 
 **Schedule**
@@ -21,12 +21,12 @@ The event will be hybrid. We can host up to 35 in-person attendees, with budget 
 
 | Time  | Session                                                   | Facilitator    |
 | ----- | --------------------------------------------------------- | -------------- |
-| 09:15 | Welcome & ice-breaker                                     | Guillermo      |
+| 09:15 | Ice-breaker & Opening remakrs                             | Guillermo      |
 | 10:00 | Interdisciplinarity workshop I                            | Anna Pilz      |
 | 11:00 | Comfort break                                             |                |
-| 11:10 | Reflection & sharing of interdisciplinarity experience    | Imane Guellil  |
+| 11:10 | Reflection & sharing of interdisciplinarity experience    | Guillermo      |
 | 12:30 | Lunch                                                     |                |
-| 13:30 | Bazaar for discussion around specific topics              |                |
+| 13:30 | Bazaar for discussion around specific topics              | Imane Guellil  |
 | 14:20 | Comfort break                                             |                |
 | 14:30 | Interdisciplinary workshop II                             | Verena Knerich |
 | 16:00 | Wrap up & Closing remarks                                 | Guillermo      |
@@ -35,7 +35,7 @@ The event will be hybrid. We can host up to 35 in-person attendees, with budget 
 
 ## Funding guidelines
 
-**The workshop, accommodation, and transport (up to £150, inclusive of VAT) are fully funded.** The AI for Multiple Long Term Conditions Research Support Facility can provide support with costs for travel and the AIM-CISC team will be organising accommodation (for a maximum of 1 night if requested in the registration form). There is also an accessibility fund which can support additional travel or other costs, to help facilitate attendance for those who may need it.
+**The workshop, accommodation, and transport (up to £200, inclusive of VAT) are fully funded.** The AI for Multiple Long Term Conditions Research Support Facility can provide support with costs for travel and the AIM-CISC team will be organising accommodation (for a maximum of 1 night if requested in the registration form). There is also an accessibility fund which can support additional travel or other costs, to help facilitate attendance for those who may need it.
 
 We can't arrange the travel directly, so ECRs will have to arrange their own travel and request reimbursement (within **2 weeks** after the event). All travel should be in compliance with [The Alan Turing Institute’s internal Travel and Expenses Policy](https://az659834.vo.msecnd.net/eventsairwesteuprod/production-uobevents-public/55742e599b004367b24d306d7ad73916).
 
