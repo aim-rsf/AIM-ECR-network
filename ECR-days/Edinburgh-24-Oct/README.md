@@ -25,11 +25,12 @@ The event will be hybrid. We can host up to 30 in-person attendees, with budget 
 | 10:00 | Interdisciplinarity workshop I                            | Anna Pilz      |
 | 11:00 | Comfort break                                             |                |
 | 11:10 | Reflection & sharing of interdisciplinarity experience    | Guillermo      |
-| 12:30 | Lunch                                                     |                |
-| 13:30 | Bazaar for discussion around specific topics              | Imane Guellil  |
-| 14:20 | Comfort break                                             |                |
+| 12:10 | Lunch                                                     |                |
+| 13:15 | Bazaar for discussion around specific topics              | Imane Guellil  |
+| 14:15 | Comfort break                                             |                |
 | 14:30 | Interdisciplinary workshop II                             | Verena Knerich |
-| 16:00 | Wrap up & Closing remarks                                 | Guillermo      |
+| 16.00 | Comfort break                                             |                |
+| 16:10 | Wrap up & Closing remarks                                 | Guillermo      |
 | 16:20 | The End                                                   |                |
 
 
