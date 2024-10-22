@@ -21,16 +21,16 @@ The event will be hybrid. We can host up to 30 in-person attendees, with budget 
 
 | Time  | Session                                                   | Facilitator    |
 | ----- | --------------------------------------------------------- | -------------- |
-| 09:15 | Ice-breaker & Opening remakrs                             | Guillermo      |
+| 09:15 | Ice-breaker & Opening remakrs                             | Asra Aslam, Emma Karoune (online), Guillermo Romero Moreno |
 | 10:00 | Interdisciplinarity workshop I                            | Anna Pilz      |
 | 11:00 | Comfort break                                             |                |
-| 11:10 | Reflection & sharing of interdisciplinarity experience    | Guillermo      |
+| 11:10 | Reflection & sharing of interdisciplinarity experience    | Guillermo Romero Moreno, Emma Karoune (online) |
 | 12:10 | Lunch                                                     |                |
-| 13:15 | Bazaar for discussion around specific topics              | Imane Guellil  |
+| 13:15 | Bazaar for discussion around specific topics              | Imane Guellil, Emma Karoune (online)  |
 | 14:15 | Comfort break                                             |                |
-| 14:30 | Interdisciplinary workshop II                             | Verena Knerich |
+| 14:30 | Interdisciplinary workshop II                             | Verena Knerich, Guillermo Romero Moreno, Emma Karoune (online) |
 | 16.00 | Comfort break                                             |                |
-| 16:10 | Wrap up & Closing remarks                                 | Guillermo      |
+| 16:10 | Wrap up & Closing remarks                                 | Guillermo Romero Moreno |
 | 16:20 | The End                                                   |                |
 
 
@@ -52,6 +52,7 @@ Full information on the travel and accommodation funding guidelines and requesti
 - **Janice Murray, Stella Arakelyan, Eleojo Abubakar, Jake Palmer**, Support
 - **Lucy McCloughan & Louise Hartley**, legal & finance
 - **Ailsa Barclay & Gregor Hall**, admin support
+- **Asra Aslam, Emma Karoune**, facilitation support
 
 This event is being co-organised with the AI for Multiple Long Term Conditions Research Support Facility, hosted by the Alan Turing Institute. (Thanks **Batool** and the **AIM RSF team** for all the help.)
 
