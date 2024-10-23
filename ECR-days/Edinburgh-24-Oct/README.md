@@ -21,14 +21,14 @@ The event will be hybrid. We can host up to 30 in-person attendees, with budget 
 
 | Time  | Session                                                   | Facilitator    |
 | ----- | --------------------------------------------------------- | -------------- |
-| 09:15 | Ice-breaker & Opening remakrs                             | Asra Aslam, Emma Karoune (online), Guillermo Romero Moreno |
-| 10:00 | Interdisciplinarity workshop I                            | Anna Pilz      |
+| 09:15 | Ice-breaker & Opening remarks                             | Asra Aslam, Emma Karoune (online), Guillermo Romero Moreno |
+| 10:00 | Interdisciplinarity workshop I (by Anna Pilz)             | Anna Pilz      |
 | 11:00 | Comfort break                                             |                |
 | 11:10 | Reflection & sharing of interdisciplinarity experience    | Guillermo Romero Moreno, Emma Karoune (online) |
 | 12:10 | Lunch                                                     |                |
 | 13:15 | Bazaar for discussion around specific topics              | Imane Guellil, Emma Karoune (online)  |
 | 14:15 | Comfort break                                             |                |
-| 14:30 | Interdisciplinary workshop II                             | Verena Knerich, Guillermo Romero Moreno, Emma Karoune (online) |
+| 14:30 | Interdisciplinary workshop II (by Verena Knerich)         | Verena Knerich, Guillermo Romero Moreno, Emma Karoune (online) |
 | 16.00 | Comfort break                                             |                |
 | 16:10 | Wrap up & Closing remarks                                 | Guillermo Romero Moreno |
 | 16:20 | The End                                                   |                |
@@ -38,7 +38,7 @@ The event will be hybrid. We can host up to 30 in-person attendees, with budget 
 
 **The workshop, accommodation, and transport (up to £200, inclusive of VAT) are fully funded.** The AI for Multiple Long Term Conditions Research Support Facility can provide support with costs for travel and the AIM-CISC team will be organising accommodation (for a maximum of 1 night if requested in the registration form). There is also an accessibility fund which can support additional travel or other costs, to help facilitate attendance for those who may need it.
 
-We can't arrange the travel directly, so ECRs will have to arrange their own travel and request reimbursement (within **2 weeks** after the event). All travel should be in compliance with [The Alan Turing Institute’s internal Travel and Expenses Policy](https://az659834.vo.msecnd.net/eventsairwesteuprod/production-uobevents-public/55742e599b004367b24d306d7ad73916).
+We can't arrange the travel directly, so ECRs will have to arrange their own travel and request reimbursement (within **2 weeks** after the event, i.e. until the 7th of Novemeber at 1pm). All travel should be in compliance with [The Alan Turing Institute’s internal Travel and Expenses Policy](https://az659834.vo.msecnd.net/eventsairwesteuprod/production-uobevents-public/55742e599b004367b24d306d7ad73916).
 
 Full information on the travel and accommodation funding guidelines and requesting reimbursement can be found [here](https://docs.google.com/document/d/1gzVB4cKMg4jXUPmFYvEs-osCxxMS9w8Mxc1YpbCrgjo/edit#heading=h.fmuzkahh3sk5).
 
