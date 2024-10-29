@@ -1,10 +1,10 @@
-# Interdisciplinary Workshop for Early Career Researchers at The University of Edinburgh
+# AIM ECR Interdisciplinarity Day at The University of Edinburgh
 
 <img src="banner.png" alt="ecr-day-banner" style="width:90%"/>
 
 **About**
 
-From AIM-CISC, with the support of the AIM RSF, we are happy to host an Early Career Researcher (ECR) Day around the topic of Interdisciplinarity on the 24th of October 2024 at the Informatics Forum, University of Edinburgh.
+From [AIM-CISC](https://usher.ed.ac.uk/primary-care-multimorbidity/projects/artificial-intelligence-and-multimorbidity-cluster), with the support of the [AIM RSF](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility), we are happy to host an Early Career Researcher (ECR) Day around the topic of Interdisciplinarity on the 24th of October 2024 at the Informatics Forum, University of Edinburgh.
 In this event we will delve into
 - what is interdisciplinary research,
 - what institutional structures facilitate interdisciplinary collaboration,
