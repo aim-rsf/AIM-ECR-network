@@ -9,6 +9,7 @@ In this event we will delve into
 - what is interdisciplinary research,
 - what institutional structures facilitate interdisciplinary collaboration,
 - and what skills are needed for making cross-disciplinary collaborations effective.
+
 As we all have a great deal of experience from our AIM projects on what working in an interdisciplinary project involves, we will also use the workshop to reflect and share the challenges, solutions, and lessons learned from it.
 
 The event will be hybrid. We can host up to 30 in-person attendees, with budget to pay for travel (up to £200) and accommodation for up to 25 attendees. Registration can be done until the 12th of September [here](https://forms.gle/1fqM9RHPExLBodS69).
@@ -57,3 +58,7 @@ Full information on the travel and accommodation funding guidelines and requesti
 This event is being co-organised with the AI for Multiple Long Term Conditions Research Support Facility, hosted by the Alan Turing Institute. (Thanks **Batool** and the **AIM RSF team** for all the help.)
 
 Many thanks to **Verena Knerich** for delivering the training session at the event and for providing lots of valuable feedback on the planning of the program and materials for the activities. Many thanks to **Anna Pilz** and the **Institute of Academic Development** at the University of Edinburgh for providing part of the interdisiclinarity training.
+
+### Group photo
+
+<img src="Group_photo.jpg" alt="ecr-day-group-photo" style="width:90%"/>
