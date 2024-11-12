@@ -3,7 +3,7 @@
 
 **About**
 
-This folder houses the planning documents for the AIM RSF Early Career Researcher (ECR) Day, which took place on November 23, 2023, at Enigma, The Alan Turing Institute. The event brought together AIM (AI for the Mathematical Sciences) researchers and ECRs for a day of knowledge sharing and collaboration.
+This folder houses the planning documents for the AIM RSF Early Career Researcher (ECR) Day, which took place on November 23, 2023, at Enigma, The Alan Turing Institute. The event brought together AIM (AI for the Multiple Long Term Conditions) researchers and ECRs for a day of knowledge sharing and collaboration.
 
 <img src="https://github.com/aim-rsf/ecr-day/assets/30151074/6f8e9514-f240-4e31-b77f-fee7a8c0c416" alt="ecr-day-poster" style="width:50%; height:50%"/>
 
