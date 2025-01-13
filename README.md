@@ -19,7 +19,7 @@ This repository 📁 will serve as a central hub for materials related to ECR ac
 
 The current developers and maintainers of this repository are:
 
-- Dr. Emma Karoune (EKaroune), Senior Community Manager, The Alan Turing Institute
+- Dr. Emma Karoune (EKaroune), Principal Researcher for Research Community Building, The Alan Turing Institute
 - Dr. Batool Almarzouq (BatoolMM), Research Project Manager AIM RSF, The Alan Turing Institute
 - Dr. Evelina Gabasova (egabasova), AIM RSF Co-Investigator & Principal Research Data Scientist, The Alan Turing Institute
 
