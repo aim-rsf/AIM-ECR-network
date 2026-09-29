@@ -2,6 +2,8 @@
 
 <img src="banner.png" alt="ecr-day-banner" style="width:90%"/>
 
+**You can find more about how the day went on this [blogpost](https://www.turing.ac.uk/research/research-projects/ai-for-multiple-long-term-conditions-research-support-facility/theme-3-community-building-and-training/aim-early-career-researcher-ecr-day-edinburgh)!**
+
 **About**
 
 From [AIM-CISC](https://usher.ed.ac.uk/primary-care-multimorbidity/projects/artificial-intelligence-and-multimorbidity-cluster), with the support of the [AIM RSF](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility), we are happy to host an Early Career Researcher (ECR) Day around the topic of Interdisciplinarity on the 24th of October 2024 at the Informatics Forum, University of Edinburgh.
